@@ -13,3 +13,4 @@ console.log("batch- 21");
 // while creating new branch -> git branch branchname
 // switch branch -> git checkout branchname
 // check changes -> git status (do this before push and after making the commit )
+// for cloning -> git clone gitrepoLink
